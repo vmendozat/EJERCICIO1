@@ -1,0 +1,25 @@
+CASO DE PRUEBA - BÚSQUEDA EN LA WEB DE AMAZON:
+
+DESCRIPCIÓN:
+- CP_realizar una búsqueda de artículo en Amazon.
+
+PRECONDICIÓN:
+
+- Ingresar a la página web de Amazon.
+
+
+PASOS:
+- Ubicarse en el campo búscar de la web.
+- Ingresar en texto lo que desea buscar.
+- pulsar el botón buscar.
+- listará los resultados en caso de encontrar el articulo.
+- seleccionar el artículo.
+- Desplegar el combo cantidad de unidades, se visualiza que el número 16 se encuentra en letras y no en número como los demas.
+
+POSTCONDICIÓN:
+
+- Muestra error al seleccionar cantidad Dieciseis en letras,debido a que la lista del combo cantidad son en números.
+
+RESULTADO ESPERADO:
+
+-Debido al error generado, no permite realizar la compra del articulo.
